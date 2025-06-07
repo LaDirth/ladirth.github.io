@@ -17,11 +17,11 @@ jobs:
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
           submodules: recursive   # Fetch Hugo themes (true OR recursive)
       
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
-          path: 'themes/yue'
-          repository: 'CyrusYip/hugo-theme-yue'
+      # - uses: actions/checkout@v4
+      #   with:
+      #     fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+      #     path: 'themes/yue'
+      #     repository: 'CyrusYip/hugo-theme-yue'
       
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
@@ -32,9 +32,19 @@ jobs:
       - name: Build
         run: hugo --minify
 
-      - name: Deploy
+      # - name: Deploy
+      #   uses: peaceiris/actions-gh-pages@v3
+      #   if: github.ref == 'refs/heads/main'
+      #   with:
+      #     github_token: ${{ secrets.GITHUB_TOKEN }}
+      #     publish_dir: ./public
+
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/main'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
+          publish_branch: gh-pages  # Specify the branch to deploy to
+          force_orphan: true  # Create an orphan branch if it doesn't exist
+          keep_files: false  # Remove all files not in the current build
