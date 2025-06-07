@@ -1,0 +1,19 @@
+baseURL = 'https://hammersandhives.net/'
+languageCode = 'en-us'
+title = 'Hammers and Hives'
+theme = 'yue'
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+# [[menu.main]]
+# name = "Troubleshooting"
+# url = "/troubleshooting"
+# weight = 2
+
+# [[menu.main]]
+# name = "About"
+# url = "/about"
+# weight = 3
