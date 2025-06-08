@@ -2,6 +2,7 @@
 title: "Troubleshooting"
 url: '/troubleshooting'
 date: 2025-05-31T22:39:33-04:00
+draft: true
 ---
 
 Troubleshooting hives, issues, and other bits to remind myself.
