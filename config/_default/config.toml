@@ -1,0 +1,12 @@
+# https://github.com/theNewDynamic/gohugo-theme-ananke/blob/master/exampleSite/config.toml
+[params]
+text_color = ""
+author = ""
+favicon = ""
+site_logo = ""
+description = "The last theme you'll ever need. Maybe."
+background_color_class = "bg-black"
+recent_posts_number = 0
+
+[ananke]
+show_recent_posts = false # show recent posts on the homepage
