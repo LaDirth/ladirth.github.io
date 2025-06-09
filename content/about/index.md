@@ -10,4 +10,4 @@ menu:
     weight: 2
 ---
 
-Hello!  Welcome to Hammers and Hives, a website about a beekeeper in the Lake Norman, North Carolina, USA area trying to figure out this beekeeping thing.
+Hello!  Welcome to Hammers and Hives, a website about a beekeeper in the Lake Norman area of North Carolina, USA area trying to figure out this beekeeping thing.
