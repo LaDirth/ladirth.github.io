@@ -13,10 +13,11 @@ description = "The last theme you'll ever need. Maybe."
 background_color_class = "bg-black"
 recent_posts_number = 0
 
-[ananke]
+[params.ananke]
 show_recent_posts = false # show recent posts on the homepage
 
 [[menu.main]]
 name = "Home"
 url = "/"
 weight = 1
+
