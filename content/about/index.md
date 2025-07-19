@@ -1,6 +1,7 @@
 ---
 title: "About"
 url: '/about'
+description: ""
 date: 2025-05-31T13:14:57-04:00
 featured_image: '/images/wolfgang-hasselmann-FpmSLjo408E-unsplash.jpg'
 draft: false
