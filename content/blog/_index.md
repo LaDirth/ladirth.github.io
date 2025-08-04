@@ -11,4 +11,4 @@ menu:
     weight: 2
 ---
 
-Hello!  This is a place for my notes, comments, and other things I don't want to forget.  These ideas have been collected from a variety of sources, with references where possible. 
+Hello!  This is a place for the musings of a new beekeper in my beekeeping journey.  These ideas have been collected from a variety of sources, with references where possible. 
