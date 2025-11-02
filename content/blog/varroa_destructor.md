@@ -2,13 +2,13 @@
 title: "Varroa Destructor"
 date: 2025-09-28T00:00:00-04:00
 featured_image: '/images/Vorroa_Mite_on_pupa.JPG'
-draft: true
+draft: false
 type: post
 ---
 
-The Varroa Destructor mite is the bane of modern beekeeping.
+The Varroa Destructor mite is the bane of modern beekeeping.  It's not IF you have Varroa mites, but HOW MANY you have.
 
-Alcohol Wash Tips
+## Alcohol Wash Tips
 * This IS fatal for bees, make sure you do not kill your queen!
 * Use at least 70% isopropyl (rubbing) alcohol
 * 1/2 cup of bees are around 300 bees
