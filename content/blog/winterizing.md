@@ -20,5 +20,6 @@ Winterizing your hives, strong fall hives make strong spring hives.  Here are so
   * Sugar feeds and is hygroscopic (absorbs water)
         * Can cause dysentery!
 * Put a piece of foam insulation on top of your hive with a brick on top.
+  * Use the foam insulation with the shiny side, and put the shiny side down!
   * Decreased condensation on the top dripping down onto the bees.
   * Excess condensation will happen on the sides of the hive, harmlessly flowing down the side and out of the hive.

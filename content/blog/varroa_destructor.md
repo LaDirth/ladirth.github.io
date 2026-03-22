@@ -9,9 +9,10 @@ type: post
 The Varroa Destructor mite is the bane of modern beekeeping.  It's not IF you have Varroa mites, but HOW MANY you have.
 
 ## Alcohol Wash Tips
+
 * This IS fatal for bees, make sure you do not kill your queen!
 * Use at least 70% isopropyl (rubbing) alcohol
-* 1/2 cup of bees are around 300 bees
+* 1/2 cup of bees ia about 300 bees
 * Nurse and house bees are the best bees to use
 * Goal is 1%-3% mites, or 3-9 mites per 300 bees
 * Shake for 60 seconds to kill the bees/mites and separate them.

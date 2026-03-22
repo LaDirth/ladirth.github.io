@@ -10,6 +10,6 @@ Numerous pages exist about the equipment new beekeepers need to start beekeeping
 
 * A paint multi-tool can be used in place of a lost hive tool [example](https://www.lowes.com/pd/Warner-Pro-Grip-5-IN-1-2-25-in-Carbon-Steel-Paint-Multi-Tool/5003316973)
 * Head sweatband(s).  Keeps the sweat out of your eyes when squinting at frames.
-* Phone stylus: Useful for taking pictures on your phone, and easily lost, buy a multi-pack 
-* EpiPen: In case of severe allergic reactions. 
+* Phone stylus: Useful for taking pictures on your phone, and easily lost, buy a multi-pack
+* EpiPen: In case of severe allergic reactions.
 * Equipment organization: Can be a toolbox, or just a bucket.  I use old cat litter buckets.
